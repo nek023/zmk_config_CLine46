@@ -1,0 +1,1 @@
+target_sources_ifdef(CONFIG_ZMK_POINTING app PRIVATE src/pointing/input_processor_vertical_scroll.c)
